@@ -1,0 +1,15 @@
+.wrapper {
+  padding-top: 50px;
+  /* background: rgb(120, 121, 122); */
+  background-image: url(Images/bg.jpg);
+  background-size: cover;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 10px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  margin-top: -30px;
+  padding-bottom: 200px;
+}

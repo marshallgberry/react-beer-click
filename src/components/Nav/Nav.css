@@ -1,0 +1,33 @@
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    -webkit-box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+    box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+    color: #433E3F;
+    margin-left: -26px;
+    margin-right: -26px;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 26px 200px;
+    width: 33.3%;
+    text-align: center;
+}
+
+.navbar a {
+    color: #fff;
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.navbar a {
+    color: #fff;
+    font-weight: 900;
+}
+
+.navbar-brand {
+  padding-left: 10%  
+}
